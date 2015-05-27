@@ -2,7 +2,7 @@ package kadai.kakeibo;
 //test
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-
+//test
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
